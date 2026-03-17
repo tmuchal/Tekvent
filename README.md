@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/dino.svg" width="64" alt="dino mascot"/>
+  <img src="assets/bear.svg" width="64" alt="bear mascot"/>
 </p>
 
-<h1 align="center">🦖 dino-events</h1>
+<h1 align="center">🐻‍❄️ polar-events</h1>
 
 <p align="center">
   <strong>아시아 AI · 블록체인 대형 행사 캘린더</strong>
@@ -200,7 +200,7 @@ interface Event {
 ---
 
 <p align="center">
-  <img src="assets/dino.svg" width="32" alt="dino mascot"/><br/>
-  Built with 🦖 by the community<br/>
+  <img src="assets/bear.svg" width="32" alt="bear mascot"/><br/>
+  Built with 🐻‍❄️ by the community<br/>
   <a href="./LICENSE">MIT License</a>
 </p>

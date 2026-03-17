@@ -1,8 +1,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//dino-events//Asia AI & Blockchain Events//EN
+PRODID:-//polar-events//Asia AI & Blockchain Events//EN
 CALSCALE:GREGORIAN
-X-WR-CALNAME:🦖 dino-events
+X-WR-CALNAME:🐻‍❄️ polar-events
 BEGIN:VEVENT
 SUMMARY:TEAMZ Summit Tokyo
 DTSTART;VALUE=DATE:20250416

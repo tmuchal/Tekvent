@@ -1,6 +1,6 @@
-# 🦖 Contributing to dino-events
+# 🐻‍❄️ Contributing to polar-events
 
-dino-events에 기여해주셔서 감사합니다!
+polar-events에 기여해주셔서 감사합니다!
 
 ## 행사 추가하기
 

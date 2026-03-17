@@ -79,10 +79,10 @@ def format_date_range(start_str, end_str, confirmed):
 
 def generate_ics(events):
     cal = Calendar()
-    cal.add("prodid", "-//dino-events//Asia AI & Blockchain Events//EN")
+    cal.add("prodid", "-//polar-events//Asia AI & Blockchain Events//EN")
     cal.add("version", "2.0")
     cal.add("calscale", "GREGORIAN")
-    cal.add("x-wr-calname", "🦖 dino-events")
+    cal.add("x-wr-calname", "🐻‍❄️ polar-events")
 
     for ev in events:
         event = Event()
@@ -220,7 +220,7 @@ def main():
     generate_ics(display_events)
     update_readme(display_events)
 
-    print("🦖 Done!")
+    print("🐻‍❄️ Done!")
 
 
 if __name__ == "__main__":
