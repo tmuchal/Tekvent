@@ -70,7 +70,19 @@
 
 | 행사 | 날짜 | 카테고리 | 설명 |
 |------|------|----------|------|
-| [Taipei Blockchain Week](https://taipeibleckchainweek.com) | Dec 8 – 14, 2025 ⚠️ | `blockchain` | Taiwan's largest blockchain festival with hackathons and summits |
+| [Taipei Blockchain Week](https://taipeiblockchainweek.com) | Dec 8 – 14, 2025 ⚠️ | `blockchain` | Taiwan's largest blockchain festival with hackathons and summits |
+
+## 🇹🇭 Thailand
+
+_아직 등록된 행사가 없습니다. [PR로 추가해주세요!](./CONTRIBUTING.md)_
+
+## 🇮🇳 India
+
+_아직 등록된 행사가 없습니다. [PR로 추가해주세요!](./CONTRIBUTING.md)_
+
+## 🇦🇪 UAE
+
+_아직 등록된 행사가 없습니다. [PR로 추가해주세요!](./CONTRIBUTING.md)_
 
 > ⚠️ = 날짜 미확정 (unconfirmed)
 <!-- EVENTS_END -->

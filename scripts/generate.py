@@ -107,18 +107,19 @@ def generate_events_section(events):
 
     lines = []
     for country in COUNTRY_ORDER:
-        if country not in grouped:
-            continue
         flag = COUNTRY_FLAGS.get(country, "")
         lines.append(f"## {flag} {country}")
         lines.append("")
-        lines.append("| 행사 | 날짜 | 카테고리 | 설명 |")
-        lines.append("|------|------|----------|------|")
-        for ev in grouped[country]:
-            name_link = f"[{ev['name']}]({ev['url']})"
-            date_range = format_date_range(ev["date_start"], ev["date_end"], ev["confirmed"])
-            cat = f"`{ev['category']}`"
-            lines.append(f"| {name_link} | {date_range} | {cat} | {ev['description']} |")
+        if country not in grouped:
+            lines.append("_아직 등록된 행사가 없습니다. [PR로 추가해주세요!](./CONTRIBUTING.md)_")
+        else:
+            lines.append("| 행사 | 날짜 | 카테고리 | 설명 |")
+            lines.append("|------|------|----------|------|")
+            for ev in grouped[country]:
+                name_link = f"[{ev['name']}]({ev['url']})"
+                date_range = format_date_range(ev["date_start"], ev["date_end"], ev["confirmed"])
+                cat = f"`{ev['category']}`"
+                lines.append(f"| {name_link} | {date_range} | {cat} | {ev['description']} |")
         lines.append("")
 
     lines.append("> ⚠️ = 날짜 미확정 (unconfirmed)")
