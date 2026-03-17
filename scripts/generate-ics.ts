@@ -17,8 +17,8 @@ interface TekventEvent {
   confirmed: boolean
 }
 
-const eventsPath = path.join(__dirname, '../public/events.json')
-const outputPath = path.join(__dirname, '../public/calendar.ics')
+const eventsPath = path.join(process.cwd(), 'public/events.json')
+const outputPath = path.join(process.cwd(), 'public/calendar.ics')
 
 const events: TekventEvent[] = JSON.parse(fs.readFileSync(eventsPath, 'utf-8'))
 
