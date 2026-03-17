@@ -9,23 +9,24 @@ interface HeaderProps {
 export default function Header({ totalCount }: HeaderProps) {
   return (
     <header className="sticky top-0 z-50 border-b border-[#334155] bg-[#0F172A]/95 backdrop-blur-sm">
-      <div className="max-w-[1400px] mx-auto px-4 h-14 flex items-center justify-between">
+      <div className="max-w-[1400px] mx-auto px-4 h-16 flex items-center justify-between">
         {/* Logo */}
         <div className="flex items-center gap-2.5">
           <Image
             src="/Tekvent/bear.svg"
             alt="Tekvent mascot"
-            width={32}
-            height={32}
+            width={40}
+            height={40}
             className="shrink-0"
             unoptimized
           />
           <span className="font-bold text-lg text-[#F8FAFC] tracking-tight">
             Tekvent
           </span>
-          <span className="hidden sm:inline text-[#475569] text-sm">
-            — Asia AI & Blockchain Events
-          </span>
+          <div className="hidden sm:flex flex-col leading-tight">
+            <span className="text-[#475569] text-xs">아시아 AI · 블록체인 행사 캘린더</span>
+            <span className="text-[#2D3F55] text-[10px]">Asia AI & Blockchain Events</span>
+          </div>
         </div>
 
         {/* Right side */}
