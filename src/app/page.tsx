@@ -27,7 +27,7 @@ export default function Home() {
     <div className="min-h-screen flex flex-col bg-[#0F172A]">
       <Header totalCount={events.length} />
 
-      <div className="flex flex-1 max-w-[1400px] mx-auto w-full px-4 py-6 gap-6">
+      <div className="flex flex-col lg:flex-row flex-1 max-w-[1400px] mx-auto w-full px-4 py-6 gap-6">
         <Sidebar
           events={events}
           selectedCountry={selectedCountry}
