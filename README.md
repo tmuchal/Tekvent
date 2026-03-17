@@ -29,7 +29,7 @@
 ---
 
 <p align="center">
-🇸🇬 <a href="#-singapore">Singapore</a> · 🇰🇷 <a href="#-south-korea">South Korea</a> · 🇯🇵 <a href="#-japan">Japan</a> · 🇭🇰 <a href="#-hong-kong">Hong Kong</a> · 🇹🇼 <a href="#-taiwan">Taiwan</a>
+🇸🇬 <a href="#-singapore">Singapore</a> · 🇰🇷 <a href="#-south-korea">South Korea</a> · 🇯🇵 <a href="#-japan">Japan</a> · 🇭🇰 <a href="#-hong-kong">Hong Kong</a> · 🇹🇼 <a href="#-taiwan">Taiwan</a> · 🇹🇭 <a href="#-thailand">Thailand</a> · 🇮🇳 <a href="#-india">India</a> · 🇦🇪 <a href="#-uae">UAE</a>
 </p>
 
 ---
@@ -82,20 +82,20 @@
 
 ```
 2025
-├── Apr  TEAMZ Summit Tokyo Tokyo 🇯🇵
-├── May  AI Expo Tokyo Tokyo 🇯🇵
-├── Aug  WebX Tokyo Tokyo 🇯🇵
-├── Sep  Korea Blockchain Week Seoul 🇰🇷
-│        ETHSeoul Seoul 🇰🇷
-│        Token2049 Singapore Singapore 🇸🇬
-├── Oct  Binance Blockchain Week Singapore 🇸🇬
-│        SmartCon Hong Kong 🇭🇰
-├── Nov  World AI Summit Singapore 🇸🇬
-├── Dec  Taipei Blockchain Week Taipei 🇹🇼
+├── Apr  TEAMZ Summit Tokyo 🇯🇵
+├── May  AI Expo Tokyo 🇯🇵
+├── Aug  WebX Tokyo 🇯🇵
+├── Sep  Korea Blockchain Week 🇰🇷
+│        ETHSeoul 🇰🇷
+│        Token2049 Singapore 🇸🇬
+├── Oct  Binance Blockchain Week 🇸🇬
+│        SmartCon 🇭🇰
+├── Nov  World AI Summit 🇸🇬
+├── Dec  Taipei Blockchain Week 🇹🇼
 
 2026
-├── Mar  RISE Conference Hong Kong Hong Kong 🇭🇰
-└── Sep  ETHGlobal Tokyo Tokyo 🇯🇵
+├── Mar  RISE Conference Hong Kong 🇭🇰
+└── Sep  ETHGlobal Tokyo 🇯🇵
 ```
 <!-- TIMELINE_END -->
 

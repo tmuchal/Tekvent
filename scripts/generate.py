@@ -131,7 +131,7 @@ def generate_timeline(events):
         start = datetime.strptime(ev["date_start"], "%Y-%m-%d")
         key = (start.year, start.month)
         flag_match = ev["country"].split(" ")[0]
-        by_year_month[key].append(f"{ev['name']} {ev['city']} {flag_match}")
+        by_year_month[key].append(f"{ev['name']} {flag_match}")
 
     years = sorted(set(k[0] for k in by_year_month.keys()))
     lines = ["```"]
