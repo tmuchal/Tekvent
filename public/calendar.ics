@@ -1,0 +1,436 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:--//Tekvent//Asia AI & Blockchain Events//EN
+METHOD:PUBLISH
+NAME:🐻‍❄️ Tekvent — Asia AI & Blockchain Events
+X-WR-CALNAME:🐻‍❄️ Tekvent — Asia AI & Blockchain Events
+BEGIN:VEVENT
+UID:dubai-ai-festival-2026
+SEQUENCE:0
+DTSTAMP:20260317T053247Z
+DTSTART;VALUE=DATE:20260407
+DTEND;VALUE=DATE:20260409
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🇦🇪 Dubai AI Festival 2026
+LOCATION:Dubai\, UAE
+DESCRIPTION:Dubai World Trade Centre에서 열리는 중동 최대 AI 페
+ 스티벌. 200+ 스피커\, 20\,000+ 참석자.\n\nCategory: ai\nTags: ai\
+ , festival\, middle-east\nURL: https://dubaiaifestival.com/
+URL;VALUE=URI:https://dubaiaifestival.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:teamz-summit-2026
+SEQUENCE:0
+DTSTAMP:20260317T053247Z
+DTSTART;VALUE=DATE:20260407
+DTEND;VALUE=DATE:20260409
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🇯🇵 TEAMZ Summit 2026
+LOCATION:Tokyo\, Japan
+DESCRIPTION:Web3 & AI Summit at Happo-en\, Tokyo. Culture meets cutting-ed
+ ge tech.\n\nCategory: both\nTags: web3\, ai\, japan\nURL: https://www.team
+ z.co.jp/
+URL;VALUE=URI:https://www.teamz.co.jp/
+END:VEVENT
+BEGIN:VEVENT
+UID:gitex-ai-asia-2026
+SEQUENCE:0
+DTSTAMP:20260317T053247Z
+DTSTART;VALUE=DATE:20260409
+DTEND;VALUE=DATE:20260411
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🇸🇬 GITEX AI Asia 2026
+LOCATION:Singapore\, Singapore
+DESCRIPTION:Asia's largest tech & AI event at Marina Bay Sands. 23\,000+ a
+ ttendees.\n\nCategory: ai\nTags: ai\, tech\, startup\nURL: https://gitexas
+ ia.com/
+URL;VALUE=URI:https://gitexasia.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:nextech-week-tokyo-2026
+SEQUENCE:0
+DTSTAMP:20260317T053247Z
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260418
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🇯🇵 NexTech Week Tokyo
+LOCATION:Tokyo\, Japan
+DESCRIPTION:RX Japan 주최 종합 테크 전시회. AI\, 블록체인\, 
+ 양자컴퓨팅 등.\n\nCategory: ai\nTags: ai\, expo\, japan\nURL: https:
+ //www.nextech-week.jp/hub/en-gb.html
+URL;VALUE=URI:https://www.nextech-week.jp/hub/en-gb.html
+END:VEVENT
+BEGIN:VEVENT
+UID:buidl-asia-2026
+SEQUENCE:0
+DTSTAMP:20260317T053247Z
+DTSTART;VALUE=DATE:20260416
+DTEND;VALUE=DATE:20260418
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🇰🇷 BUIDL Asia 2026
+LOCATION:Seoul\, South Korea
+DESCRIPTION:Builder-focused Web3 conference at Signiel Seoul\, Lotte World
+  Tower.\n\nCategory: blockchain\nTags: web3\, builder\, korea\nURL: https:
+ //www.buidl.asia/
+URL;VALUE=URI:https://www.buidl.asia/
+END:VEVENT
+BEGIN:VEVENT
+UID:hk-web3-festival-2026
+SEQUENCE:0
+DTSTAMP:20260317T053247Z
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260424
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🇭🇰 Hong Kong Web3 Festival 2026
+LOCATION:Hong Kong\, Hong Kong
+DESCRIPTION:Asia's largest Web3 event at HKCEC. Co-organized by HashKey & 
+ Wanxiang.\n\nCategory: blockchain\nTags: web3\, crypto\, hong-kong\nURL: h
+ ttps://www.web3festival.org/
+URL;VALUE=URI:https://www.web3festival.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:coinferencex-2026
+SEQUENCE:0
+DTSTAMP:20260317T053247Z
+DTSTART;VALUE=DATE:20260427
+DTEND;VALUE=DATE:20260429
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🇦🇪 CoinFerenceX
+LOCATION:Dubai\, UAE
+DESCRIPTION:Crypto conference and exhibition in Dubai.\n\nCategory: blockc
+ hain\nTags: crypto\, conference\nURL: https://coinferencex.com/
+URL;VALUE=URI:https://coinferencex.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:conviction-2026
+SEQUENCE:0
+DTSTAMP:20260317T053247Z
+DTSTART;VALUE=DATE:20260508
+DTEND;VALUE=DATE:20260510
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🇻🇳 Conviction 2026
+LOCATION:Ho Chi Minh City\, Vietnam
+DESCRIPTION:Southeast Asia's premier crypto gathering in Ho Chi Minh City.
+ \n\nCategory: blockchain\nTags: crypto\, vietnam\, southeast-asia\nURL: ht
+ tps://conviction.events/
+URL;VALUE=URI:https://conviction.events/
+END:VEVENT
+BEGIN:VEVENT
+UID:seabw-2026
+SEQUENCE:0
+DTSTAMP:20260317T053247Z
+DTSTART;VALUE=DATE:20260520
+DTEND;VALUE=DATE:20260522
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🇹🇭 SEABW 2026 (Southeast Asia Blockchain Week)
+LOCATION:Bangkok\, Thailand
+DESCRIPTION:Main conference at TRUE ICON HALL\, Bangkok. Full week May 18-
+ 24.\n\nCategory: blockchain\nTags: blockchain\, thailand\, southeast-asia\
+ nURL: https://seablockchainweek.org/
+URL;VALUE=URI:https://seablockchainweek.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:superai-2026
+SEQUENCE:0
+DTSTAMP:20260317T053247Z
+DTSTART;VALUE=DATE:20260610
+DTEND;VALUE=DATE:20260612
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🇸🇬 SuperAI 2026
+LOCATION:Singapore\, Singapore
+DESCRIPTION:World's leading AI conference at Marina Bay Sands. 10\,000+ at
+ tendees\, 150+ speakers.\n\nCategory: ai\nTags: ai\, conference\, singapor
+ e\nURL: https://superai.com/
+URL;VALUE=URI:https://superai.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:global-blockchain-show-riyadh-2026
+SEQUENCE:0
+DTSTAMP:20260317T053247Z
+DTSTART;VALUE=DATE:20260629
+DTEND;VALUE=DATE:20260701
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🇸🇦 Global Blockchain Show Riyadh
+LOCATION:Riyadh\, Saudi Arabia
+DESCRIPTION:Global blockchain exhibition and conference in Riyadh.\n\nCate
+ gory: blockchain\nTags: blockchain\, saudi-arabia\nURL: https://www.global
+ blockchainshow.com/
+URL;VALUE=URI:https://www.globalblockchainshow.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:global-ai-show-riyadh-2026
+SEQUENCE:0
+DTSTAMP:20260317T053247Z
+DTSTART;VALUE=DATE:20260629
+DTEND;VALUE=DATE:20260701
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🇸🇦 Global AI Show Riyadh
+LOCATION:Riyadh\, Saudi Arabia
+DESCRIPTION:10\,000+ AI leaders\, enterprises\, investors driving real-wor
+ ld AI adoption.\n\nCategory: ai\nTags: ai\, saudi-arabia\nURL: https://www
+ .globalaishow.com/riyadh/
+URL;VALUE=URI:https://www.globalaishow.com/riyadh/
+END:VEVENT
+BEGIN:VEVENT
+UID:webx-2026
+SEQUENCE:0
+DTSTAMP:20260317T053247Z
+DTSTART;VALUE=DATE:20260713
+DTEND;VALUE=DATE:20260715
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🇯🇵 WebX 2026
+LOCATION:Tokyo\, Japan
+DESCRIPTION:Asia's leading Web3 conference by CoinPost at Prince Park Towe
+ r. 14\,000+ attendees.\n\nCategory: blockchain\nTags: web3\, japan\, confe
+ rence\nURL: https://webx-asia.com/
+URL;VALUE=URI:https://webx-asia.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:wiki-finance-expo-hk-2026
+SEQUENCE:0
+DTSTAMP:20260317T053247Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260725
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🇭🇰 Wiki Finance Expo Hong Kong
+LOCATION:Hong Kong\, Hong Kong
+DESCRIPTION:Finance\, fintech\, and blockchain expo in Hong Kong.\n\nCateg
+ ory: both\nTags: fintech\, blockchain\, hong-kong\nURL: https://www.wikiex
+ po.com/
+URL;VALUE=URI:https://www.wikiexpo.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:abs-2026
+SEQUENCE:0
+DTSTAMP:20260317T053247Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260804
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🇹🇼 Asia Blockchain Summit (ABS)
+LOCATION:Taipei\, Taiwan
+DESCRIPTION:Premier annual blockchain summit by BlockTempo. 정확한 날
+ 짜 TBD.\n\nCategory: blockchain\nTags: blockchain\, taiwan\nURL: https://
+ abs.io/
+URL;VALUE=URI:https://abs.io/
+END:VEVENT
+BEGIN:VEVENT
+UID:coinfest-asia-2026
+SEQUENCE:0
+DTSTAMP:20260317T053247Z
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260822
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🇮🇩 Coinfest Asia 2026
+LOCATION:Bali\, Indonesia
+DESCRIPTION:World's largest crypto festival in Bali.\n\nCategory: blockcha
+ in\nTags: crypto\, festival\, indonesia\nURL: https://coinfest.asia/
+URL;VALUE=URI:https://coinfest.asia/
+END:VEVENT
+BEGIN:VEVENT
+UID:bitcoin-asia-2026
+SEQUENCE:0
+DTSTAMP:20260317T053247Z
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260829
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🇭🇰 Bitcoin Asia 2026
+LOCATION:Hong Kong\, Hong Kong
+DESCRIPTION:BTC Inc의 아시아 비트콘 컨퍼런스 at HKCEC.\n\nCateg
+ ory: blockchain\nTags: bitcoin\, hong-kong\nURL: https://asia.b.tc/2026
+URL;VALUE=URI:https://asia.b.tc/2026
+END:VEVENT
+BEGIN:VEVENT
+UID:ethtokyo-2026
+SEQUENCE:0
+DTSTAMP:20260317T053247Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260928
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🇯🇵 ETHTokyo 2026
+LOCATION:Tokyo\, Japan
+DESCRIPTION:Ethereum hackathon week — conferences\, workshops\, and buil
+ ding.\n\nCategory: blockchain\nTags: ethereum\, hackathon\, japan\nURL: ht
+ tps://www.ethtokyo.org/
+URL;VALUE=URI:https://www.ethtokyo.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:pragma-tokyo-2026
+SEQUENCE:0
+DTSTAMP:20260317T053247Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🇯🇵 Pragma Tokyo 2026
+LOCATION:Tokyo\, Japan
+DESCRIPTION:One-day curated Ethereum summit by ETHGlobal.\n\nCategory: blo
+ ckchain\nTags: ethereum\, conference\nURL: https://ethglobal.com/events/pr
+ agma-tokyo2026
+URL;VALUE=URI:https://ethglobal.com/events/pragma-tokyo2026
+END:VEVENT
+BEGIN:VEVENT
+UID:ethglobal-tokyo-2026
+SEQUENCE:0
+DTSTAMP:20260317T053247Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260928
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🇯🇵 ETHGlobal Tokyo 2026
+LOCATION:Tokyo\, Japan
+DESCRIPTION:36-hour Ethereum hackathon by ETHGlobal.\n\nCategory: blockcha
+ in\nTags: ethereum\, hackathon\nURL: https://ethglobal.com/events/tokyo202
+ 6
+URL;VALUE=URI:https://ethglobal.com/events/tokyo2026
+END:VEVENT
+BEGIN:VEVENT
+UID:kbw-2026
+SEQUENCE:0
+DTSTAMP:20260317T053247Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20261002
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🇰🇷 KBW 2026 (Korea Blockchain Week)
+LOCATION:Seoul\, South Korea
+DESCRIPTION:Asia's premier crypto event at Walkerhill. Upbit main sponsor.
+ \n\nCategory: blockchain\nTags: crypto\, web3\, korea\nURL: https://koreab
+ lockchainweek.com/
+URL;VALUE=URI:https://koreablockchainweek.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:token2049-singapore-2026
+SEQUENCE:0
+DTSTAMP:20260317T053247Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261009
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🇸🇬 TOKEN2049 Singapore
+LOCATION:Singapore\, Singapore
+DESCRIPTION:World's largest crypto event at Marina Bay Sands. 25\,000+ att
+ endees.\n\nCategory: blockchain\nTags: crypto\, web3\, defi\nURL: https://
+ www.token2049.com/singapore
+URL;VALUE=URI:https://www.token2049.com/singapore
+END:VEVENT
+BEGIN:VEVENT
+UID:world-ai-expo-dubai-2026
+SEQUENCE:0
+DTSTAMP:20260317T053247Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261009
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🇦🇪 World AI Expo Dubai
+LOCATION:Dubai\, UAE
+DESCRIPTION:The largest global AI conference and innovation hub in Dubai.\
+ n\nCategory: ai\nTags: ai\, expo\, dubai\nURL: https://worldaiexpo.io/
+URL;VALUE=URI:https://worldaiexpo.io/
+END:VEVENT
+BEGIN:VEVENT
+UID:global-ai-show-abudhabi-2026
+SEQUENCE:0
+DTSTAMP:20260317T053247Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261029
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🇦🇪 Global AI Show Abu Dhabi
+LOCATION:Abu Dhabi\, UAE
+DESCRIPTION:5\,000+ AI futurists and 100+ speakers in Abu Dhabi.\n\nCatego
+ ry: ai\nTags: ai\, abu-dhabi\nURL: https://www.globalaishow.com/abu-dhabi/
+URL;VALUE=URI:https://www.globalaishow.com/abu-dhabi/
+END:VEVENT
+BEGIN:VEVENT
+UID:devcon-8-mumbai
+SEQUENCE:0
+DTSTAMP:20260317T053247Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261107
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🇮🇳 Devcon 8 Mumbai
+LOCATION:Mumbai\, India
+DESCRIPTION:Ethereum Foundation의 공식 개발자 컨퍼런스 at JIO Wo
+ rld Center.\n\nCategory: blockchain\nTags: ethereum\, developer\, india\nU
+ RL: https://devcon.org/
+URL;VALUE=URI:https://devcon.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:pragma-mumbai-2026
+SEQUENCE:0
+DTSTAMP:20260317T053247Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🇮🇳 Pragma Mumbai
+LOCATION:Mumbai\, India
+DESCRIPTION:One-day Ethereum summit by ETHGlobal during Devcon week.\n\nCa
+ tegory: blockchain\nTags: ethereum\, conference\nURL: https://ethglobal.co
+ m/events/pragma-mumbai
+URL;VALUE=URI:https://ethglobal.com/events/pragma-mumbai
+END:VEVENT
+BEGIN:VEVENT
+UID:ethglobal-mumbai-2026
+SEQUENCE:0
+DTSTAMP:20260317T053247Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261109
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🇮🇳 ETHGlobal Mumbai
+LOCATION:Mumbai\, India
+DESCRIPTION:ETHGlobal hackathon in Mumbai during Devcon week.\n\nCategory:
+  blockchain\nTags: ethereum\, hackathon\, india\nURL: https://ethglobal.co
+ m/events/mumbai
+URL;VALUE=URI:https://ethglobal.com/events/mumbai
+END:VEVENT
+BEGIN:VEVENT
+UID:blockchain-life-2026
+SEQUENCE:0
+DTSTAMP:20260317T053247Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261203
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🇦🇪 Blockchain Life 2026
+LOCATION:Dubai\, UAE
+DESCRIPTION:Global crypto forum — whales\, founders\, and top executives
+ .\n\nCategory: blockchain\nTags: crypto\, web3\, mining\nURL: https://bloc
+ kchain-life.com/
+URL;VALUE=URI:https://blockchain-life.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:gitex-global-2026
+SEQUENCE:0
+DTSTAMP:20260317T053247Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261212
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🇦🇪 GITEX Global 2026
+LOCATION:Dubai\, UAE
+DESCRIPTION:World's largest tech show at Dubai Exhibition Centre\, Expo Ci
+ ty.\n\nCategory: ai\nTags: ai\, tech\, global\nURL: https://www.gitex.com/
+URL;VALUE=URI:https://www.gitex.com/
+END:VEVENT
+END:VCALENDAR

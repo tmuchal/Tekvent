@@ -1,181 +1,93 @@
 <p align="center">
-  <img src="assets/dino.svg" width="64" alt="dino mascot"/>
+  <img src="public/bear.svg" width="80" alt="Tekvent mascot — baby polar bear"/>
 </p>
 
-<h1 align="center">🦖 dino-events</h1>
+<h1 align="center">🐻‍❄️ Tekvent</h1>
 
 <p align="center">
-  <strong>아시아 AI · 블록체인 대형 행사 캘린더</strong>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/events-2-4ADE80?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiI+PHRleHQgeD0iNCIgeT0iMTIiIGZvbnQtc2l6ZT0iMTIiPvCfppY8L3RleHQ+PC9zdmc+" alt="Total Events"/>
-  <img src="https://img.shields.io/badge/updated-2026--03-blue?style=flat-square" alt="Last Updated"/>
-  <img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="License: MIT"/>
+  <strong>Asia AI & Blockchain Events Calendar</strong>
 </p>
 
 <p align="center">
-  캘린더 구독 · JSON 데이터 · 오픈소스<br/>
-  누구나 Fork해서 가져가고, PR로 행사를 추가할 수 있습니다.
+  <a href="https://tmuchal.github.io/Tekvent"><img src="https://img.shields.io/badge/events-29-blue?style=flat-square" alt="events"/></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="MIT License"/></a>
+  <a href="https://github.com/tmuchal/Tekvent/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square" alt="PRs Welcome"/></a>
 </p>
 
----
+> 🌏 **Live site:** [https://tmuchal.github.io/Tekvent](https://tmuchal.github.io/Tekvent)
 
-| 📅 캘린더 구독 | 📦 JSON 데이터 | 🤝 행사 추가 |
-|---|---|---|
-| [구글 캘린더에 추가](https://calendar.google.com/calendar/r?cid=webcal://raw.githubusercontent.com/tmuchal/Tekvent/main/calendar.ics) | [events.json 보기](./events.json) | [기여 가이드](#-contributing) |
-| [ICS 다운로드](./calendar.ics) | [Raw JSON](https://raw.githubusercontent.com/tmuchal/Tekvent/main/events.json) | [이슈 등록](https://github.com/tmuchal/Tekvent/issues) |
+Curated, open-source calendar of major AI and blockchain events across Asia and the Middle East. No ads, no paywalls — just clean data you can fork and use.
 
----
+## 🗓️ Quick Links
 
-<p align="center">
-🇸🇬 <a href="#-singapore">Singapore</a> · 🇰🇷 <a href="#-south-korea">South Korea</a> · 🇯🇵 <a href="#-japan">Japan</a> · 🇭🇰 <a href="#-hong-kong">Hong Kong</a> · 🇹🇼 <a href="#-taiwan">Taiwan</a> · 🇹🇭 <a href="#-thailand">Thailand</a> · 🇮🇳 <a href="#-india">India</a> · 🇦🇪 <a href="#-uae">UAE</a>
-</p>
+| | Link |
+|---|---|
+| 📅 Live Calendar | [tmuchal.github.io/Tekvent](https://tmuchal.github.io/Tekvent) |
+| 📋 Events JSON | [public/events.json](https://raw.githubusercontent.com/tmuchal/Tekvent/main/public/events.json) |
+| 📆 Subscribe (iCal) | [public/calendar.ics](https://raw.githubusercontent.com/tmuchal/Tekvent/main/public/calendar.ics) |
+| 🤝 Contributing | [CONTRIBUTING.md](CONTRIBUTING.md) |
 
----
+## 🌏 Featured Events
 
-<!-- EVENTS_START -->
-## 🇸🇬 Singapore
+| Date | Event | Location | Category |
+|------|-------|----------|----------|
+| Apr 20–23, 2026 | [HK Web3 Festival 2026](https://www.web3festival.org/) | 🇭🇰 Hong Kong | Blockchain |
+| Jun 10–11, 2026 | [SuperAI 2026](https://superai.com/) | 🇸🇬 Singapore | AI |
+| Sep 25–27, 2026 | [ETHGlobal Tokyo 2026](https://ethglobal.com/events/tokyo2026) | 🇯🇵 Tokyo | Blockchain |
+| Oct 7–8, 2026 | [TOKEN2049 Singapore](https://www.token2049.com/singapore) | 🇸🇬 Singapore | Blockchain |
+| Nov 3–6, 2026 | [Devcon 8 Mumbai](https://devcon.org/) | 🇮🇳 Mumbai | Blockchain |
 
-_아직 등록된 행사가 없습니다. [PR로 추가해주세요!](./CONTRIBUTING.md)_
+## 💻 Use the Data
 
-## 🇰🇷 South Korea
-
-_아직 등록된 행사가 없습니다. [PR로 추가해주세요!](./CONTRIBUTING.md)_
-
-## 🇯🇵 Japan
-
-| 행사 | 날짜 | 카테고리 | 설명 |
-|------|------|----------|------|
-| [ETHGlobal Tokyo](https://ethglobal.com) | Sep 15 – 17, 2026 ⚠️ | `blockchain` | World's largest Ethereum hackathon series comes to Tokyo |
-
-## 🇭🇰 Hong Kong
-
-| 행사 | 날짜 | 카테고리 | 설명 |
-|------|------|----------|------|
-| [RISE Conference Hong Kong](https://riseconf.com) | Mar 17 – 19, 2026 | `both` | Asia's largest tech conference covering AI, blockchain, and startups |
-
-## 🇹🇼 Taiwan
-
-_아직 등록된 행사가 없습니다. [PR로 추가해주세요!](./CONTRIBUTING.md)_
-
-## 🇹🇭 Thailand
-
-_아직 등록된 행사가 없습니다. [PR로 추가해주세요!](./CONTRIBUTING.md)_
-
-## 🇮🇳 India
-
-_아직 등록된 행사가 없습니다. [PR로 추가해주세요!](./CONTRIBUTING.md)_
-
-## 🇦🇪 UAE
-
-_아직 등록된 행사가 없습니다. [PR로 추가해주세요!](./CONTRIBUTING.md)_
-
-> ⚠️ = 날짜 미확정 (unconfirmed)
-<!-- EVENTS_END -->
-
----
-
-<!-- TIMELINE_START -->
-## 📅 타임라인
-
-```
-2026
-├── Mar  RISE Conference Hong Kong 🇭🇰
-└── Sep  ETHGlobal Tokyo 🇯🇵
-```
-<!-- TIMELINE_END -->
-
----
-
-## 📦 데이터 사용하기
-
-### JSON으로 가져가기
-
+**curl:**
 ```bash
-curl -s https://raw.githubusercontent.com/tmuchal/Tekvent/main/events.json
+curl https://tmuchal.github.io/Tekvent/events.json
 ```
 
-### JavaScript / TypeScript
-
-```javascript
-const response = await fetch(
-  'https://raw.githubusercontent.com/tmuchal/Tekvent/main/events.json'
-);
-const events = await response.json();
-
-// 블록체인 행사만 필터
-const blockchain = events.filter(e => e.category === 'blockchain');
-
-// 한국 행사만
-const korea = events.filter(e => e.country.includes('Korea'));
+**JavaScript:**
+```js
+const res = await fetch('https://tmuchal.github.io/Tekvent/events.json')
+const events = await res.json()
 ```
 
-### Python
-
+**Python:**
 ```python
 import requests
-
-events = requests.get(
-    'https://raw.githubusercontent.com/tmuchal/Tekvent/main/events.json'
-).json()
-
-# 다가오는 행사만
-upcoming = [e for e in events if e['date_start'] >= '2025-03-01']
+events = requests.get('https://tmuchal.github.io/Tekvent/events.json').json()
 ```
 
-### 캘린더 구독
-
-구글 캘린더에서 "URL로 캘린더 추가":
-
+**iCal subscribe URL:**
 ```
-https://raw.githubusercontent.com/tmuchal/Tekvent/main/calendar.ics
+https://raw.githubusercontent.com/tmuchal/Tekvent/main/public/calendar.ics
 ```
 
----
+## 🏗️ Tech Stack
 
-## 📋 데이터 스키마
-
-```typescript
-interface Event {
-  name: string;          // 행사명
-  category: 'ai' | 'blockchain' | 'both';
-  date_start: string;    // YYYY-MM-DD
-  date_end: string;      // YYYY-MM-DD
-  country: string;       // 국기 + 나라명
-  city: string;
-  url: string;           // 공식 사이트
-  description: string;
-  tags: string[];
-  confirmed: boolean;    // 날짜 확정 여부
-}
-```
-
----
+| | |
+|---|---|
+| Framework | Next.js 14 (App Router, static export) |
+| Language | TypeScript |
+| Styling | Tailwind CSS |
+| Animations | Framer Motion |
+| Deployment | GitHub Pages |
+| Calendar | ical-generator |
 
 ## 🤝 Contributing
 
-### 행사 추가하기
+1. Fork this repo
+2. Edit `public/events.json` — add or fix an event
+3. Open a PR with a brief description
 
-1. 이 레포를 **Fork**
-2. `events.json`에 행사 추가
-3. **PR** 보내기
+See [CONTRIBUTING.md](CONTRIBUTING.md) for the full JSON schema.
 
-### 규칙
+## 📄 License
 
-- 아시아 개최 행사만
-- 참가자 500명 이상 대형 행사
-- 공식 URL 필수
-- 날짜 미확정 시 `confirmed: false`
-
-### 행사 수정/삭제
-
-이슈를 등록하거나, 직접 PR 보내주세요.
+MIT — see [LICENSE](LICENSE)
 
 ---
 
 <p align="center">
-  <img src="assets/dino.svg" width="32" alt="dino mascot"/><br/>
-  Built with 🦖 by the community<br/>
-  <a href="./LICENSE">MIT License</a>
+  <img src="public/bear.svg" width="32" alt="Tekvent mascot"/>
+  <br/>
+  <sub>Built with 🐻‍❄️ by the community</sub>
 </p>
