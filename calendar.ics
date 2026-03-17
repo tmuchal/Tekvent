@@ -1,0 +1,105 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//dino-events//Asia AI & Blockchain Events//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:🦖 dino-events
+BEGIN:VEVENT
+SUMMARY:TEAMZ Summit Tokyo
+DTSTART;VALUE=DATE:20250416
+DTEND;VALUE=DATE:20250417
+DESCRIPTION:Web3 & AI summit bringing together global leaders
+LOCATION:Tokyo\, Japan
+URL:https://summit.teamz.co.jp
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AI Expo Tokyo
+DTSTART;VALUE=DATE:20250521
+DTEND;VALUE=DATE:20250523
+DESCRIPTION:Japan's largest AI trade show and conference
+LOCATION:Tokyo\, Japan
+URL:https://www.ai-expo.jp
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WebX Tokyo
+DTSTART;VALUE=DATE:20250818
+DTEND;VALUE=DATE:20250819
+DESCRIPTION:Asia's largest Web3 conference hosted by CoinPost
+LOCATION:Tokyo\, Japan
+URL:https://webx-asia.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Korea Blockchain Week
+DTSTART;VALUE=DATE:20250901
+DTEND;VALUE=DATE:20250907
+DESCRIPTION:Seoul's premier blockchain week featuring multiple events
+LOCATION:Seoul\, South Korea
+URL:https://koreablockchainweek.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ETHSeoul
+DTSTART;VALUE=DATE:20250915
+DTEND;VALUE=DATE:20250917
+DESCRIPTION:Ethereum hackathon and conference in Seoul
+LOCATION:Seoul\, South Korea
+URL:https://ethseoul.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Token2049 Singapore
+DTSTART;VALUE=DATE:20250930
+DTEND;VALUE=DATE:20251001
+DESCRIPTION:Asia's premier crypto conference
+LOCATION:Singapore\, Singapore
+URL:https://token2049.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Binance Blockchain Week
+DTSTART;VALUE=DATE:20251015
+DTEND;VALUE=DATE:20251017
+DESCRIPTION:Binance's flagship annual blockchain conference
+LOCATION:Singapore\, Singapore
+URL:https://www.binance.com/en/events
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SmartCon
+DTSTART;VALUE=DATE:20251028
+DTEND;VALUE=DATE:20251030
+DESCRIPTION:Chainlink's annual conference on oracle and blockchain infrast
+ ructure
+LOCATION:Hong Kong\, Hong Kong
+URL:https://smartcon.chain.link
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:World AI Summit
+DTSTART;VALUE=DATE:20251112
+DTEND;VALUE=DATE:20251114
+DESCRIPTION:Global AI leaders summit focused on enterprise AI adoption
+LOCATION:Singapore\, Singapore
+URL:https://worldaisummit.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Taipei Blockchain Week
+DTSTART;VALUE=DATE:20251208
+DTEND;VALUE=DATE:20251214
+DESCRIPTION:Taiwan's largest blockchain festival with hackathons and summi
+ ts
+LOCATION:Taipei\, Taiwan
+URL:https://taipeiblockchainweek.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RISE Conference Hong Kong
+DTSTART;VALUE=DATE:20260317
+DTEND;VALUE=DATE:20260319
+DESCRIPTION:Asia's largest tech conference covering AI\, blockchain\, and 
+ startups
+LOCATION:Hong Kong\, Hong Kong
+URL:https://riseconf.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ETHGlobal Tokyo
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260917
+DESCRIPTION:World's largest Ethereum hackathon series comes to Tokyo
+LOCATION:Tokyo\, Japan
+URL:https://ethglobal.com
+END:VEVENT
+END:VCALENDAR
