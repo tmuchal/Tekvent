@@ -27,7 +27,7 @@ export default function Footer() {
             </p>
             <div className="flex flex-col gap-1.5">
               <code className="text-xs text-[#94A3B8] bg-[#0F172A] border border-[#334155] px-2 py-1 rounded font-mono block">
-                curl https://tmuchal.github.io/Tekvent/events.json
+                curl https://raw.githubusercontent.com/tmuchal/Tekvent/main/public/events.json
               </code>
             </div>
           </div>
@@ -61,7 +61,7 @@ export default function Footer() {
               className="opacity-60"
               unoptimized
             />
-            <span>Built with 🐻‍❄️ by the community · MIT License</span>
+            <span>Built with 🐧 by the community · MIT License</span>
           </div>
           <a
             href="https://github.com/tmuchal/Tekvent"
