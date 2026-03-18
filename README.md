@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="public/bear.svg" width="80" alt="Tekvent mascot — baby polar bear"/>
+  <img src="public/penguin.svg" width="80" alt="Tekvent mascot — baby penguin"/>
 </p>
 
-<h1 align="center">🐻‍❄️ Tekvent</h1>
+<h1 align="center">🐧 Tekvent</h1>
 
 <p align="center">
   <strong>Asia AI & Blockchain Events Calendar</strong>
