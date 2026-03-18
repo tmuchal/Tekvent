@@ -54,7 +54,7 @@ export default function Footer() {
         <div className="border-t border-[#334155] pt-6 flex items-center justify-between flex-wrap gap-3">
           <div className="flex items-center gap-2 text-[#64748B] text-sm">
             <Image
-              src="/Tekvent/bear.svg"
+              src="/Tekvent/penguin.svg"
               alt="Tekvent mascot"
               width={20}
               height={20}

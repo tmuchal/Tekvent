@@ -13,7 +13,7 @@ export default function Header({ totalCount }: HeaderProps) {
         {/* Logo */}
         <div className="flex items-center gap-2.5">
           <Image
-            src="/Tekvent/bear.svg"
+            src="/Tekvent/penguin.svg"
             alt="Tekvent mascot"
             width={40}
             height={40}

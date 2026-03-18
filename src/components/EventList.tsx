@@ -51,7 +51,7 @@ export default function EventList({ events }: EventListProps) {
     return (
       <div className="flex flex-col items-center justify-center py-24 gap-4 text-center">
         <Image
-          src="/Tekvent/bear.svg"
+          src="/Tekvent/penguin.svg"
           alt="No events"
           width={64}
           height={64}
