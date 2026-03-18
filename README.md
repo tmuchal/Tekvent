@@ -87,7 +87,7 @@ MIT — see [LICENSE](LICENSE)
 ---
 
 <p align="center">
-  <img src="public/bear.svg" width="32" alt="Tekvent mascot"/>
+  <img src="public/penguin.svg" width="32" alt="Tekvent mascot"/>
   <br/>
-  <sub>Built with 🐻‍❄️ by the community</sub>
+  <sub>Built with 🐧 by the community</sub>
 </p>
