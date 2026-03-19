@@ -8,37 +8,40 @@ interface HeaderProps {
 
 export default function Header({ totalCount }: HeaderProps) {
   return (
-    <header className="sticky top-0 z-50 border-b border-[#334155] bg-[#0F172A]/95 backdrop-blur-sm">
+    <header className="sticky top-0 z-50 border-b border-[#0E5A82] bg-[#0C4A6E] shadow-md">
       <div className="max-w-[1400px] mx-auto px-4 h-16 flex items-center justify-between">
         {/* Logo */}
         <div className="flex items-center gap-2.5">
-          <Image
-            src="/Tekvent/penguin.svg"
-            alt="Tekvent mascot"
-            width={40}
-            height={40}
-            className="shrink-0"
-            unoptimized
-          />
-          <span className="font-bold text-lg text-[#F8FAFC] tracking-tight">
-            Tekvent
-          </span>
-          <div className="hidden sm:flex flex-col leading-tight">
-            <span className="text-[#475569] text-xs">아시아 AI · 블록체인 행사 캘린더</span>
-            <span className="text-[#2D3F55] text-[10px]">Asia AI & Blockchain Events</span>
+          <div className="bg-white/10 rounded-xl p-1">
+            <Image
+              src="/Tekvent/penguin.svg"
+              alt="Tekvent mascot"
+              width={36}
+              height={36}
+              className="shrink-0"
+              unoptimized
+            />
+          </div>
+          <div>
+            <span className="font-bold text-lg text-white tracking-tight leading-none block">
+              Tekvent
+            </span>
+            <div className="hidden sm:flex flex-col">
+              <span className="text-[#7DD3FC] text-xs leading-tight">아시아 AI · 블록체인 행사 캘린더</span>
+            </div>
           </div>
         </div>
 
         {/* Right side */}
         <div className="flex items-center gap-3">
-          <span className="bg-[#1E293B] border border-[#334155] text-[#94A3B8] text-xs px-2.5 py-1 rounded-full">
+          <span className="bg-white/10 border border-white/20 text-[#BAE6FD] text-xs px-2.5 py-1 rounded-full font-medium">
             {totalCount} events
           </span>
           <a
             href="https://github.com/tmuchal/Tekvent"
             target="_blank"
             rel="noopener noreferrer"
-            className="text-[#94A3B8] hover:text-[#F8FAFC] transition-colors"
+            className="text-[#7DD3FC] hover:text-white transition-colors"
             aria-label="GitHub"
           >
             <svg width="20" height="20" fill="currentColor" viewBox="0 0 24 24">
