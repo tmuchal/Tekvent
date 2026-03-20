@@ -59,7 +59,7 @@ export default function EventList({ events }: EventListProps) {
           unoptimized
         />
         <p className="text-[#64748B] text-lg font-medium">No events found</p>
-        <p className="text-[#475569] text-sm">Try adjusting your filters</p>
+        <p className="text-[#94A3B8] text-sm">Try adjusting your filters</p>
       </div>
     )
   }
@@ -68,15 +68,15 @@ export default function EventList({ events }: EventListProps) {
     <div className="flex flex-col gap-8">
       {/* Upcoming events by month */}
       {upcomingGroups.length === 0 && past.length > 0 && (
-        <p className="text-[#64748B] text-sm">No upcoming events match your filters.</p>
+        <p className="text-[#94A3B8] text-sm">No upcoming events match your filters.</p>
       )}
 
       {upcomingGroups.map(([monthLabel, monthEvents]) => (
         <section key={monthLabel}>
-          <h2 className="text-sm font-semibold text-[#64748B] uppercase tracking-wider mb-3 flex items-center gap-2">
-            <span className="w-2 h-2 rounded-full bg-[#3B82F6] inline-block" />
+          <h2 className="text-sm font-semibold text-[#0C4A6E] uppercase tracking-wider mb-3 flex items-center gap-2">
+            <span className="w-2 h-2 rounded-full bg-[#2563EB] inline-block" />
             {monthLabel}
-            <span className="text-[#475569] font-normal normal-case tracking-normal">
+            <span className="text-[#94A3B8] font-normal normal-case tracking-normal">
               {monthEvents.length} event{monthEvents.length !== 1 ? 's' : ''}
             </span>
           </h2>
@@ -95,7 +95,7 @@ export default function EventList({ events }: EventListProps) {
         <section>
           <button
             onClick={() => setPastOpen((v) => !v)}
-            className="flex items-center gap-2 text-sm text-[#64748B] hover:text-[#94A3B8] transition-colors mb-3"
+            className="flex items-center gap-2 text-sm text-[#94A3B8] hover:text-[#64748B] transition-colors mb-3"
           >
             <svg
               width="14"
@@ -109,7 +109,7 @@ export default function EventList({ events }: EventListProps) {
             <span className="font-medium uppercase tracking-wider text-xs">
               Past Events
             </span>
-            <span className="text-[#475569] font-normal normal-case tracking-normal text-xs">
+            <span className="text-[#BAE6FD] font-normal normal-case tracking-normal text-xs">
               {past.length} event{past.length !== 1 ? 's' : ''}
             </span>
           </button>
