@@ -56,13 +56,16 @@ export default function EventCard({ event }: EventCardProps) {
   const dayLabel = startDate.getDate()
 
   return (
-    <motion.div
+    <motion.a
+      href={event.url}
+      target="_blank"
+      rel="noopener noreferrer"
       initial={{ opacity: 0, y: 12 }}
       animate={{ opacity: 1, y: 0 }}
       exit={{ opacity: 0, y: -6 }}
       transition={{ duration: 0.2 }}
       whileHover={{ y: -2 }}
-      className={`group relative flex gap-4 bg-white border border-[#BAE6FD] rounded-2xl p-4 transition-all hover:border-[#7DD3FC] hover:shadow-md hover:shadow-sky-100 ${
+      className={`group relative flex gap-4 bg-white border border-[#BAE6FD] rounded-2xl p-4 transition-all hover:border-[#7DD3FC] hover:shadow-md hover:shadow-sky-100 cursor-pointer ${
         ended ? 'opacity-50' : ''
       }`}
     >
@@ -81,15 +84,9 @@ export default function EventCard({ event }: EventCardProps) {
       {/* Content */}
       <div className="flex-1 min-w-0">
         <div className="flex items-start justify-between gap-2 flex-wrap">
-          <a
-            href={event.url}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="text-[#0F172A] font-semibold text-base hover:text-[#2563EB] transition-colors leading-snug"
-            onClick={(e) => e.stopPropagation()}
-          >
+          <span className="text-[#0F172A] font-semibold text-base group-hover:text-[#2563EB] transition-colors leading-snug">
             {event.name}
-          </a>
+          </span>
           <div className="flex items-center gap-1.5 shrink-0 flex-wrap justify-end">
             {!event.confirmed && (
               <span className="text-[10px] font-medium px-1.5 py-0.5 rounded-md bg-amber-50 text-amber-700 border border-amber-200">
@@ -149,6 +146,6 @@ export default function EventCard({ event }: EventCardProps) {
           </div>
         )}
       </div>
-    </motion.div>
+    </motion.a>
   )
 }
