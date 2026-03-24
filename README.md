@@ -10,6 +10,10 @@
 </p>
 
 <p align="center">
+  <a href="https://tmuchal.github.io/Tekvent/"><strong>🌐 tmuchal.github.io/Tekvent</strong></a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/events-29-blue?style=flat-square" alt="events"/>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="MIT License"/></a>
   <a href="https://github.com/tmuchal/Tekvent/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square" alt="PRs Welcome"/></a>
@@ -86,5 +90,5 @@ MIT — [LICENSE](LICENSE)
 <p align="center">
   <img src="public/penguin.svg" width="32" alt="Tekvent mascot"/>
   <br/>
-  <sub>Built with 🐧 by the community</sub>
+  <sub>Built with 🐧 by tmuchal</sub>
 </p>
