@@ -7,7 +7,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "generate": "npx ts-node --project tsconfig.scripts.json scripts/generate-ics.ts"
+    "generate": "npx ts-node --project tsconfig.scripts.json scripts/generate-ics.ts",
+    "archive-events": "npx ts-node --project tsconfig.scripts.json scripts/archive-past-events.ts"
   },
   "dependencies": {
     "framer-motion": "^11.0.0",
