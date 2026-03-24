@@ -26,7 +26,7 @@ export default function Footer() {
               All events available as JSON — free to use.
             </p>
             <div className="flex flex-col gap-1.5">
-              <pre className="text-xs text-[#475569] bg-[#F0F9FF] border border-[#BAE6FD] px-3 py-2 rounded-xl font-mono overflow-x-auto">{`curl \\\n  https://raw.githubusercontent.com/tmuchal/Tekvent/main/public/events.json`}</pre>
+              <code className="text-xs text-[#475569] bg-[#F0F9FF] border border-[#BAE6FD] px-3 py-2 rounded-xl font-mono block break-all">{"curl https://raw.githubusercontent.com/tmuchal/Tekvent/main/public/events.json"}</code>
             </div>
           </div>
 
