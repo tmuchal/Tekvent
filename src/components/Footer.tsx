@@ -61,7 +61,7 @@ export default function Footer() {
               className="opacity-70"
               unoptimized
             />
-            <span>Built with 🐧 by the community · MIT License</span>
+            <span>Built with 🐧 by tmuchal · MIT License</span>
           </div>
           <a
             href="https://github.com/tmuchal/Tekvent"
