@@ -23,7 +23,7 @@ export default function Footer() {
           <div>
             <h4 className="text-sm font-semibold text-[#0C4A6E] mb-3">📋 Use the Data</h4>
             <p className="text-sm text-[#64748B] mb-3">
-              All events available as JSON — free to use.
+              All events available as JSON — openly available.
             </p>
             <div className="flex flex-col gap-1.5">
               <pre className="text-xs text-[#475569] bg-[#F0F9FF] border border-[#BAE6FD] px-3 py-2 rounded-xl font-mono overflow-x-auto">{`curl \\\n  https://raw.githubusercontent.com/tmuchal/Tekvent/main/public/events.json`}</pre>
@@ -59,7 +59,7 @@ export default function Footer() {
               className="opacity-70"
               unoptimized
             />
-            <span>Built with 🐧 by tmuchal · MIT License</span>
+            <span>Built with 🐧 by tmuchal</span>
           </div>
           <a
             href="https://github.com/tmuchal/Tekvent"
