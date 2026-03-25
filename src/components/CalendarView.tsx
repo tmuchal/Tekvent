@@ -175,7 +175,7 @@ export default function CalendarView({ events }: CalendarViewProps) {
             <button
               key={day}
               onClick={() => setSelectedDay(isSelected ? null : day)}
-              className={`relative p-1.5 sm:p-2 rounded-xl border transition-all min-h-[60px] sm:min-h-[72px] flex flex-col items-start ${
+              className={`relative p-1.5 sm:p-2 rounded-xl border transition-all min-h-[72px] sm:min-h-[90px] flex flex-col items-start ${
                 isSelected
                   ? 'border-[#2563EB] bg-[#EFF6FF] shadow-sm'
                   : hasEvents
@@ -195,17 +195,19 @@ export default function CalendarView({ events }: CalendarViewProps) {
                 {day}
               </span>
               {uniqueDayEvents.length > 0 && (
-                <div className="flex flex-wrap gap-0.5 mt-0.5">
-                  {uniqueDayEvents.slice(0, 3).map((e, i) => (
+                <div className="flex flex-col gap-0.5 mt-0.5 w-full">
+                  {uniqueDayEvents.slice(0, 2).map((e, i) => (
                     <span
                       key={i}
-                      className="w-2 h-2 rounded-full shrink-0"
-                      style={{ backgroundColor: catColor(e.category) }}
-                    />
+                      className="text-[9px] sm:text-[10px] leading-tight px-1 py-0.5 rounded truncate w-full block font-medium"
+                      style={{ backgroundColor: catBg(e.category), color: catColor(e.category) }}
+                    >
+                      {e.name}
+                    </span>
                   ))}
-                  {uniqueDayEvents.length > 3 && (
-                    <span className="text-[9px] text-[#64748B] leading-none self-center">
-                      +{uniqueDayEvents.length - 3}
+                  {uniqueDayEvents.length > 2 && (
+                    <span className="text-[9px] text-[#64748B] leading-none px-1">
+                      +{uniqueDayEvents.length - 2} more
                     </span>
                   )}
                 </div>
