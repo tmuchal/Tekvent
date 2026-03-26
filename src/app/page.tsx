@@ -22,7 +22,9 @@ export default function Home() {
     return events.filter((e) => {
       const countryMatch = !selectedCountry || e.country === selectedCountry
       const catMatch =
-        selectedCategory === 'all' || e.category === selectedCategory
+        selectedCategory === 'all' ||
+        e.category === selectedCategory ||
+        e.category === 'both'
       return countryMatch && catMatch
     })
   }, [selectedCountry, selectedCategory])
