@@ -15,7 +15,6 @@ const CATEGORIES: { value: EventCategory | 'all'; label: string; color?: string 
   { value: 'all', label: 'All Events' },
   { value: 'ai', label: 'AI', color: '#2563EB' },
   { value: 'blockchain', label: 'Blockchain', color: '#7C3AED' },
-  { value: 'both', label: 'AI + Blockchain', color: '#0D9488' },
 ]
 
 export default function Sidebar({
